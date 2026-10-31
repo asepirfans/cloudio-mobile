@@ -1,0 +1,4 @@
+# Preserve upstream notice/code formatting without whitespace-only rewrites.
+THIRD_PARTY_LICENSES.txt -whitespace
+assets/fonts/OFL.txt -whitespace
+packages/just_audio/** -whitespace
