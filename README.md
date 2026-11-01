@@ -70,7 +70,7 @@ Paket rilis terbaru siap unduh langsung dari halaman [GitHub Releases](https://g
 |---|---|---|---|
 | **Android (Modern)** | `.apk` (ARM 64-bit) | **~21 MB** | **Direkomendasikan.** Untuk 99% HP Android modern (Samsung, Xiaomi, Oppo, Vivo, Poco, Realme, Pixel, Infinix).<br>👉 **[Unduh app-arm64-v8a-release.apk](https://github.com/asepirfans/cloudio-mobile/releases/latest/download/app-arm64-v8a-release.apk)** |
 | **Android (Universal)** | `.apk` (All-in-one) | ~57 MB | Berisi seluruh arsitektur prosesor jika versi ARM64 tidak kompatibel.<br>👉 **[Unduh app-release.apk](https://github.com/asepirfans/cloudio-mobile/releases/latest/download/app-release.apk)** |
-| **iPhone / iPad** | `.ipa` | ~30 MB | Paket instalasi untuk iOS menggunakan Sideloadly atau AltStore.<br>👉 **[Unduh Runner.ipa](https://github.com/asepirfans/cloudio-mobile/releases/latest/download/Runner.ipa)** |
+| **iPhone / iPad** | `.ipa` | **~9 MB** | Paket instalasi untuk iOS menggunakan Sideloadly atau AltStore.<br>👉 **[Unduh Runner.ipa](https://github.com/asepirfans/cloudio-mobile/releases/latest/download/Runner.ipa)** |
 
 ---
 
